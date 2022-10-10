@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slider/static/css/main.c9ed4716.css",
+    "main.js": "/Slider/static/js/main.9fa0264c.js",
+    "static/media/leftArrow.svg": "/Slider/static/media/leftArrow.1a7161a0fd17baf0fbba963c84340194.svg",
+    "static/media/rightArrow.svg": "/Slider/static/media/rightArrow.63b924913cfd887593d54baaca54deed.svg",
+    "index.html": "/Slider/index.html",
+    "main.c9ed4716.css.map": "/Slider/static/css/main.c9ed4716.css.map",
+    "main.9fa0264c.js.map": "/Slider/static/js/main.9fa0264c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ed4716.css",
+    "static/js/main.9fa0264c.js"
+  ]
+}
